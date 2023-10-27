@@ -1,4 +1,4 @@
-![Фото](https://github.com/KindCoffeeBear/Portfolio/blob/8e5613db3a6867ddb44f15db5187ed31b9b3ef7d/photo_2023-10-23_20-21-43%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F%201.jpg)
+![Фото](https://github.com/KindCoffeeBear/Portfolio/blob/648f74ccb98c1ee5cf106a0c65dd7eb1c8aee272/photo_2023-10-23_20-21-43%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F%201.jpg)
 # Владислав Романов
 * тел. +7 (911) 703-61-29
 * email: [conter123@list.ru](mailto:conter123@list.ru)
