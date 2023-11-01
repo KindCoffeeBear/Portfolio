@@ -24,7 +24,7 @@
   - [Создал баг-репортов](https://docs.google.com/spreadsheets/d/1h_nEN-VcGbNH4eHMpWOMN83arq3zLQ6wRl0age-gDpU/edit#gid=413511226) на основе [скриншота](https://drive.google.com/file/d/1ucv3JFqEGY7ijVtP0Qn0BrdV2ipqYu37/view)
   - Нашел бага в функции «Написать отзыв» в карточке товара на сайте [henderson.ru](https://henderson.ru/) и [составил на него баг-репорта](https://docs.google.com/spreadsheets/d/1ddi3miD4WR2YznzOSxg0KdgPZCBAyl1cBr_fnJl_RRE/edit#gid=0)
   - Провел тестирования верстки страницы карточки товара с учетом требования, что стоимость товара может быть от [1 рубля](https://monosnap.com/file/sRFUFlSyPYznnoliIPzH8312RyQOzQ) до [10 000 000 рублей](https://monosnap.com/file/noxDP2QPe2eRgSiJtVOQ8vJrYVYSz1) 
-  - [Проведел тестирование POST-запроса](https://monosnap.com/file/FFzaSsAe0pLgyd6LZkXunoPZbTjxdb). Суть задачи состояла в том, чтобы найти необходимый запрос без документации и передать ответные параметры backend-разработчику
+  - [Провел тестирование POST-запроса](https://monosnap.com/file/FFzaSsAe0pLgyd6LZkXunoPZbTjxdb). Суть задачи состояла в том, чтобы найти необходимый запрос без документации и передать ответные параметры backend-разработчику
 
 
 ### Мои курсы и сертификаты
