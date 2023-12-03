@@ -24,8 +24,16 @@
   - [Создал баг-репорты](https://docs.google.com/spreadsheets/d/1h_nEN-VcGbNH4eHMpWOMN83arq3zLQ6wRl0age-gDpU/edit#gid=413511226) на основе [скриншота](https://drive.google.com/file/d/1ucv3JFqEGY7ijVtP0Qn0BrdV2ipqYu37/view)
   - Нашел баг в функции «Написать отзыв» в карточке товара на сайте [henderson.ru](https://henderson.ru/) и [составил на него баг-репорт](https://docs.google.com/spreadsheets/d/1ddi3miD4WR2YznzOSxg0KdgPZCBAyl1cBr_fnJl_RRE/edit#gid=0)
   - Провел тестирование верстки страницы карточки товара с учетом требования, что стоимость товара может быть от [1 рубля](https://monosnap.com/file/sRFUFlSyPYznnoliIPzH8312RyQOzQ) до [10 000 000 рублей](https://monosnap.com/file/noxDP2QPe2eRgSiJtVOQ8vJrYVYSz1) 
-  - [Провел тестирование POST-запроса](https://monosnap.com/file/FFzaSsAe0pLgyd6LZkXunoPZbTjxdb). Суть задачи состояла в том, чтобы найти необходимый запрос без документации и передать ответные параметры backend-разработчику
+  - [Провел тестирование POST-запроса](https://monosnap.com/file/FFzaSsAe0pLgyd6LZkXunoPZbTjxdb). Суть задачи состояла в том, чтобы найти необходимый запрос без документации и передать ответные параметры backend-разработчику.
+
+* Тестирование cайта [e-pr.online](https://e-pr.online/)
+  - Проанализировал 203 СМИ на наличие их на сайте [e-pr.online](https://e-pr.online/) и актуальность ссылок, посещаемости и рейтинга этих СМИ в двух штатах США: [Аризона](https://docs.google.com/spreadsheets/d/1y4vCADwTdaRCFU7T-9z9Eg4eNbv8IJsEzADdXbvKkik/edit#gid=0) и [Алабама](https://docs.google.com/spreadsheets/d/1CnNZIr-oIRnKAvP64fScAP480XpDk9jnDlwytY8PyQs/edit#gid=0).
+
+
+### Рекомендательные письма
+* [Ирина Проскурина - CEO of E-PR Online Inc.](https://github.com/KindCoffeeBear/Portfolio/files/13539013/Vladislav.Romanov.pdf)
 
 
 ### Мои курсы и сертификаты
 * [Ручное тестирование веб-приложений](https://github.com/KindCoffeeBear/Portfolio/files/13229948/default.pdf)
+
